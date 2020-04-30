@@ -2,4 +2,4 @@
 *.scss
 .DS_Store
 prepros.config
-*.md
+style-guide.md
